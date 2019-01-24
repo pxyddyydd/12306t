@@ -1,7 +1,7 @@
 #### 12306 购票小助手
 
 - python版本支持
-  - 2.7.10 - 2.7.15
+  - python3.6+
 - 依赖库
   - 依赖若快 若快注册地址：http://www.ruokuai.com/client/index?6726 推荐用若快，打码兔平台已经关闭
   - 项目依赖包 requirements.txt
@@ -93,7 +93,3 @@
     - 以及所有为此项目提供pr的同学
 - [更新日志](Update.md)
 
-- 如果觉得项目还不错，可以考虑打赏一波
-    -
-    ![image](https://github.com/testerSunshine/12306/blob/master/uml/wx.jpeg?imageMogr2/auto-orient/strip)
-    ![image](https://github.com/testerSunshine/12306/blob/master/uml/zfb.jpeg?imageMogr2/auto-orient/strip)
